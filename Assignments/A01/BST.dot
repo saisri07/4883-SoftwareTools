@@ -1,0 +1,29 @@
+digraph BST {
+    
+    
+    
+    node [shape=record];
+    
+    //Define nodes
+    //width is used to allign nodes to arrows
+    //color is used to color the nodes
+    N1 [label="<left> Left|{N1}|<right> Right",color="red",width=4];
+    N2 [label="<left> Left|{N2}|<right> Right",color="black",width=3];
+    N3 [label="<left> Left|{N3}|<right> Right",color="black",width=3];
+    N4 [label="<left> Left|{N4}|<right> Right",color="blue"];
+    N5 [label="<left> Left|{N5}|<right> Right",color="blue"];
+    N6 [label="<left> Left|{N6}|<right> Right",color="blue"];
+    N7 [label="<left> Left|{N7}|<right> Right",color="blue"];
+
+   
+    //Define Edges
+    N1:left -> N2;
+    N1:right -> N3;
+    N2:left -> N4;
+    N2:right -> N5;
+    N3:left -> N6;
+    N3:right -> N7;
+    
+    
+    }
+        
