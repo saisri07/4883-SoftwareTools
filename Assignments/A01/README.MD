@@ -1,8 +1,8 @@
 ## A01 - BST using Graphviz
-### Sai Teja Sripathi
-### Description:
 
-Creating a binary search tree using Graphviz (visualizing tool). BST contain seven nodes in the format of left data right. Each node in the BST is in the record shape.
+## Sai Teja Sripathi
+
+## Description: Creating a binary search tree using Graphviz (visualizing tool). BST contain seven nodes in the format of left data right. Each node in the BST is in the record shape.
 
 
 ## Files
