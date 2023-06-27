@@ -1,4 +1,4 @@
-## A01 - BST using Graphviz
+## BST using Graphviz
 
 ## Sai Teja Sripathi
 
