@@ -9,8 +9,8 @@
 
 |  # |  File |  Description                           |
 |----|-------|----------------------------------------|
-| 1  |BST.dot| This file contain graphviz code for BST|
+| 1  |[BST.dot](https://github.com/saisri07/4883-software-tools-sripathi/blob/main/Assignments/A01/BST.dot)| This file contain graphviz code for BST|
 |    |       |                                        |
-| 2  |BST.png| This file contain output BST           |
+| 2  |[BST.png](https://github.com/saisri07/4883-software-tools-sripathi/blob/main/Assignments/A01/BST.png)| This file contain output BST           |
 |    |       |                                        |
 
