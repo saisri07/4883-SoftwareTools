@@ -6,8 +6,8 @@
 
 This application renders a web page using Selenium, and then parses the HTML using BeautifulSoup. The parsed HTML is then printed to the console. Creating a gui to retrieve values for the characteristics day, month, year, ariport, and filter (only daily) using PySimpleGui. Utilize Selenium to dynamically retrieve data from Wunderground and display it in a table on the GUI.
 
-## Instruction: 
-This code only works when you select filter to daily
+
+
 
 ## FILES
 |   #   | File            | Description                                        |
@@ -23,6 +23,8 @@ This code only works when you select filter to daily
 |   9   |  [get_weather.py](https://github.com/saisri07/4883-software-tools-sripathi/blob/main/Assignments/A07/get_weather.py)     | this file contain code to scrape and render data using beautsoup and selenium    |
 |   10  | [requirements.txt](https://github.com/saisri07/4883-software-tools-sripathi/blob/main/Assignments/A07/requirements.txt)    | this file has list of dependencies for this project |
 
+
+
 # Instructions:
 
 * Install the required libraries by running pip3 install -r requirements.txt in your command line or terminal.
@@ -32,11 +34,18 @@ This code only works when you select filter to daily
 * weather data will be displayed in a table format.
 
 
+
+
 # Output:
+
 
 # Example-1
 
+
+
 <img width="516" alt="Example 1a" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/deb9af2d-9076-439a-bbbf-d74d529dfd4f">
+
+
 
 <img width="808" alt="Example 1b" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/bffb982d-7927-4016-870f-82bd413e4f43">
 
