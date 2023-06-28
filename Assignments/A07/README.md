@@ -49,3 +49,27 @@ This application renders a web page using Selenium, and then parses the HTML usi
 
 <img width="808" alt="Example 1b" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/bffb982d-7927-4016-870f-82bd413e4f43">
 
+
+# Example-2
+
+<img width="492" alt="Example 2a" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/46bafad9-1497-4791-93d8-4162a19458fa">
+
+
+
+<img width="809" alt="Example 2b" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/8aae7e86-12aa-4f05-b01f-52b29210e1f5">
+
+# Example-3
+
+
+<img width="516" alt="Example 3a" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/4936f70c-7e49-414c-a8fc-bb722d3e2a35">
+
+
+
+
+<img width="843" alt="Example 3b" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/bac48796-5b6d-4335-903f-aab7922400dc">
+
+
+
+
+
+
