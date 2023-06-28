@@ -23,8 +23,18 @@ This code only works when you select filter to daily
 |   9   |  [get_weather.py](https://github.com/saisri07/4883-software-tools-sripathi/blob/main/Assignments/A07/get_weather.py)     | this file contain code to scrape and render data using beautsoup and selenium    |
 |   10  | [requirements.txt](https://github.com/saisri07/4883-software-tools-sripathi/blob/main/Assignments/A07/requirements.txt)    | this file has list of dependencies for this project |
 
+# Instructions:
+
+* Install the required libraries by running pip3 install -r requirements.txt in your command line or terminal.
+* Run the gui.py script to start the program.
+* In the program's user interface, select the filter (currently only "daily" is available), an airport code, and a specific date.
+* Click the "Submit" button.
+* weather data will be displayed in a table format.
+
 
 # Output:
+
+# Example-1
 
 <img width="516" alt="Example 1a" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/deb9af2d-9076-439a-bbbf-d74d529dfd4f">
 
