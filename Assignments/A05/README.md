@@ -15,5 +15,8 @@ In this assignment a family tree is being generated from converting a .CSV file 
 |   4   | [family_tree.png](https://github.com/saisri07/4883-software-tools-sripathi/blob/main/Assignments/A05/family_tree.png)                 | Generated family tree image from graphviz|
 
 
+# Output:-
 
 
+
+![family_tree](https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/66260d93-a9f0-47ce-b6c2-a47c5d1ef5f2)
