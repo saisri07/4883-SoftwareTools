@@ -2,7 +2,7 @@
 
 ## Sai Teja Sripathi
 
-## Description
+## Description:-
 
 This application renders a web page using Selenium, and then parses the HTML using BeautifulSoup. The parsed HTML is then printed to the console. Creating a gui to retrieve values for the characteristics day, month, year, ariport, and filter (only daily) using PySimpleGui. Utilize Selenium to dynamically retrieve data from Wunderground and display it in a table on the GUI.
 
