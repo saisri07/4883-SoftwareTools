@@ -17,12 +17,12 @@
 
 
 # Instruction
-1.Install Graphviz on mac or windows for your operating system.
-2.Generate a family tree file form [website](http://mcdemarco.net/tools/family-tree-generator/lineage.html)
-3.family_tree.py takes csv file as input and generates a dot file.
-4.run the dot file on the graphviz to generate a family tree.
-5.save output family tree as a png file
-6.you can modify family_tree.py file for cutomization 
+markup: 1.Install Graphviz on mac or windows for your operating system.
+        2.Generate a family tree file form [website](http://mcdemarco.net/tools/family-tree-generator/lineage.html)
+        3.family_tree.py takes csv file as input and generates a dot file.
+        4.run the dot file on the graphviz to generate a family tree.
+        5.save output family tree as a png file
+        6.you can modify family_tree.py file for cutomization 
 
 
 # Output:-
