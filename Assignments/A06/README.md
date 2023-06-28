@@ -14,18 +14,18 @@ Graphy.app is an online tool that allows you to create and customize various typ
 
 # Key features:- 
 
-1)Interactive Visualizations
-2)Versatile Chart Types
-3)Smart Data Formatting
-4)Advanced Customization
-5)Collaboration and Sharing
+* Interactive Visualizations
+* Versatile Chart Types
+* Smart Data Formatting
+* Advanced Customization
+* Collaboration and Sharing
 
 
 # Use Cases:-
 
-1)Business Analytics
-2)Research and Academia
-3)Data Journalism
+* Business Analytics
+* Research and Academia
+* Data Journalism
 
 
 
