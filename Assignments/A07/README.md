@@ -23,3 +23,10 @@ This code only works when you select filter to daily
 |   9   |  [get_weather.py](https://github.com/saisri07/4883-software-tools-sripathi/blob/main/Assignments/A07/get_weather.py)     | this file contain code to scrape and render data using beautsoup and selenium    |
 |   10  | [requirements.txt](https://github.com/saisri07/4883-software-tools-sripathi/blob/main/Assignments/A07/requirements.txt)    | this file has list of dependencies for this project |
 
+
+# Output:
+
+<img width="516" alt="Example 1a" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/deb9af2d-9076-439a-bbbf-d74d529dfd4f">
+
+<img width="808" alt="Example 1b" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/bffb982d-7927-4016-870f-82bd413e4f43">
+
