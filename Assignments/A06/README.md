@@ -72,6 +72,19 @@ Graphy.app is an online tool that allows you to create and customize various typ
 <img width="612" alt="Screenshot 2023-07-02 at 8 33 43 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/b34f4eca-cd2c-47e7-9f01-c5e28f913a44">
 
 
+# AI Assistant
+
+* It also has a AI assitstant query data
+  
+* It will generate both data and graph
+
+
+<img width="935" alt="Screenshot 2023-07-05 at 10 01 48 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/2d685537-edaa-4f37-9681-a41737c39121">
+
+
+# Example:
+
+
 
 
 # Use Cases:-
