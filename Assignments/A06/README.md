@@ -1,9 +1,9 @@
-# Sai Teja Sripathi
 
 # Software Tool - Graphy.app
 
+## Sai Teja Sripathi
 
-# link - https://graphy.app
+## link - https://graphy.app
 
 
 # Description:- 
@@ -14,35 +14,35 @@ Graphy.app is an online tool that allows you to create and customize various typ
 
 # Key features:- 
 
-# Interactive Visualizations:
+## Interactive Visualizations:
 
-*Intuitive and easy-to-use interface, suitable for both beginners and advanced users.
+* Intuitive and easy-to-use interface, suitable for both beginners and advanced users.
 ​
-*Copy-and-paste functionality for seamless creation and customization of visualizations
+* Copy-and-paste functionality for seamless creation and customization of visualizations
 
 
 
 
   
-# Versatile Chart Types
+## Versatile Chart Types
 
-*Supports various chart types, including line charts, bar charts, pie charts, stacked barchart, combo chart, donut chart and funnel chart.​
+* Supports various chart types, including line charts, bar charts, pie charts, stacked barchart, combo chart, donut chart and funnel chart.​
 
-*Choose the best chart type to represent your data accurately.
+* Choose the best chart type to represent your data accurately.
 
 
-# Smart Data Formatting
+## Smart Data Formatting
 
 * Graphy.app intelligently recognizes and formats data, eliminating the need for manual data preparation.​
   
 * Automatically detects categorical and numerical data for appropriate chart suggestions.
 
   
-# Advanced Customization
+## Advanced Customization
 
-*Customize visualizations with a wide range of options for colors, fonts, labels, axis scales, and more.​
+* Customize visualizations with a wide range of options for colors, fonts, labels, axis scales, and more.​
 
-*Personalize visualizations to match your brand or presentation requirements.
+* Personalize visualizations to match your brand or presentation requirements.
 
 
 
@@ -50,23 +50,23 @@ Graphy.app is an online tool that allows you to create and customize various typ
 
 # Use Cases:-
 
-# Business Analytics:​
+## Business Analytics:​
 
-*Visualize sales data, marketing metrics, financial trends, and customer insights.​
+* Visualize sales data, marketing metrics, financial trends, and customer insights.​
 
-*Create interactive dashboards for monitoring KPIs and performance indicators.​
+* Create interactive dashboards for monitoring KPIs and performance indicators.​
 
-# Research and Academia:​
+## Research and Academia:​
 
-*Present research findings, scientific data, and experimental results with clarity.​
+* Present research findings, scientific data, and experimental results with clarity.​
 
-*Visualize complex datasets, enabling better understanding and data-driven decision-making.​
+* Visualize complex datasets, enabling better understanding and data-driven decision-making.​
 
-# Data Journalism:​
+## Data Journalism:​
 
 
-*Tell compelling stories with data-driven visualizations.​
+* Tell compelling stories with data-driven visualizations.​
 
-*Enhance articles, reports, and presentations with visually appealing graphics.​
+* Enhance articles, reports, and presentations with visually appealing graphics.​
 
 
