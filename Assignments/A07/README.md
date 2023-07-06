@@ -24,6 +24,13 @@ This application renders a web page using Selenium, and then parses the HTML usi
 |   10  | [requirements.txt](https://github.com/saisri07/4883-software-tools-sripathi/blob/main/Assignments/A07/requirements.txt)    | this file has list of dependencies for this project |
 
 
+# Requirements:
+
+* Python 3.x
+* PySimpleGUI
+* Selenium
+* BeautifulSoup4
+
 
 # Instructions:
 
