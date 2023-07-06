@@ -14,18 +14,59 @@ Graphy.app is an online tool that allows you to create and customize various typ
 
 # Key features:- 
 
-* Interactive Visualizations
-* Versatile Chart Types
-* Smart Data Formatting
-* Advanced Customization
-* Collaboration and Sharing
+# Interactive Visualizations:
+
+*Intuitive and easy-to-use interface, suitable for both beginners and advanced users.
+​
+*Copy-and-paste functionality for seamless creation and customization of visualizations
+
+
+
+
+  
+# Versatile Chart Types
+
+*Supports various chart types, including line charts, bar charts, pie charts, stacked barchart, combo chart, donut chart and funnel chart.​
+
+*Choose the best chart type to represent your data accurately.
+
+
+# Smart Data Formatting
+
+* Graphy.app intelligently recognizes and formats data, eliminating the need for manual data preparation.​
+  
+* Automatically detects categorical and numerical data for appropriate chart suggestions.
+
+  
+# Advanced Customization
+
+*Customize visualizations with a wide range of options for colors, fonts, labels, axis scales, and more.​
+
+*Personalize visualizations to match your brand or presentation requirements.
+
+
+
 
 
 # Use Cases:-
 
-* Business Analytics
-* Research and Academia
-* Data Journalism
+# Business Analytics:​
 
+*Visualize sales data, marketing metrics, financial trends, and customer insights.​
+
+*Create interactive dashboards for monitoring KPIs and performance indicators.​
+
+# Research and Academia:​
+
+*Present research findings, scientific data, and experimental results with clarity.​
+
+*Visualize complex datasets, enabling better understanding and data-driven decision-making.​
+
+# Data Journalism:​
+
+
+*Tell compelling stories with data-driven visualizations.​
+
+*Enhance articles, reports, and presentations with visually appealing graphics.​
 
 
