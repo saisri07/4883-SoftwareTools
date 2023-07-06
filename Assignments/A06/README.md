@@ -21,6 +21,8 @@ Graphy.app is an online tool that allows you to create and customize various typ
 * Copy-and-paste functionality for seamless creation and customization of visualizations
 
 
+<img width="1230" alt="Screenshot 2023-07-02 at 8 14 24 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/25d9cbac-acab-4df5-a6d9-422db0334eeb">
+
 
 
   
@@ -29,6 +31,25 @@ Graphy.app is an online tool that allows you to create and customize various typ
 * Supports various chart types, including line charts, bar charts, pie charts, stacked barchart, combo chart, donut chart and funnel chart.​
 
 * Choose the best chart type to represent your data accurately.
+
+<img width="663" alt="Screenshot 2023-07-02 at 8 20 22 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/34f31f97-7d18-4b57-8b76-393c9225e42c">
+
+
+<img width="659" alt="Screenshot 2023-07-02 at 8 20 37 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/fe0fb1b1-8e54-4bc6-9a71-3f41e8947c77">
+
+
+<img width="654" alt="Screenshot 2023-07-02 at 8 21 12 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/b854332b-0acc-411c-bbbe-881b64220106">
+
+
+<img width="652" alt="Screenshot 2023-07-02 at 8 21 27 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/ab429cf8-236a-461e-9c37-a239ea902e21">
+
+
+<img width="658" alt="Screenshot 2023-07-02 at 8 21 51 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/99659d18-5111-4c2c-a2d5-c986210bfecc">
+
+<img width="644" alt="Screenshot 2023-07-02 at 8 22 06 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/5a76755c-65f3-413c-aa8a-12487e968db6">
+
+
+
 
 
 ## Smart Data Formatting
@@ -44,6 +65,7 @@ Graphy.app is an online tool that allows you to create and customize various typ
 
 * Personalize visualizations to match your brand or presentation requirements.
 
+<img width="612" alt="Screenshot 2023-07-02 at 8 33 43 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/b34f4eca-cd2c-47e7-9f01-c5e28f913a44">
 
 
 
