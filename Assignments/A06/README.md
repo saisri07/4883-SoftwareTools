@@ -32,20 +32,24 @@ Graphy.app is an online tool that allows you to create and customize various typ
 
 * Choose the best chart type to represent your data accurately.
 
+
+### Bar Chart
+
 <img width="663" alt="Screenshot 2023-07-02 at 8 20 22 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/34f31f97-7d18-4b57-8b76-393c9225e42c">
 
-
+### Stacked Bar Chart
 <img width="659" alt="Screenshot 2023-07-02 at 8 20 37 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/fe0fb1b1-8e54-4bc6-9a71-3f41e8947c77">
 
-
+### Combo Chart
 <img width="654" alt="Screenshot 2023-07-02 at 8 21 12 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/b854332b-0acc-411c-bbbe-881b64220106">
 
-
+### Pie Chart
 <img width="652" alt="Screenshot 2023-07-02 at 8 21 27 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/ab429cf8-236a-461e-9c37-a239ea902e21">
 
-
+### Donut Chart
 <img width="658" alt="Screenshot 2023-07-02 at 8 21 51 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/99659d18-5111-4c2c-a2d5-c986210bfecc">
 
+### Funnel Chart
 <img width="644" alt="Screenshot 2023-07-02 at 8 22 06 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/5a76755c-65f3-413c-aa8a-12487e968db6">
 
 
