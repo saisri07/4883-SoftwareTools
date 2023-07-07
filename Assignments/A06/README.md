@@ -84,6 +84,17 @@ Graphy.app is an online tool that allows you to create and customize various typ
 
 # Example:
 
+|   #   | File                  | Description                                        |
+| :---: | :-------------------- | ---------------------------------- |
+|   1   |  Example-1(data)      |   Excel data for Example-1         |
+|   2   |  Example-1(output)    |   Output Image for Example-1       |
+|   3  |   Example-2(data)      |   Excel data for Example-2         |
+|   4   |  Example-2(output)    |   Output Image for Example-2       |
+|   5   |  Example-3(data)      |   Excel data for Example-3         |
+|   6   |  Example-3(output)    |   Output Image for Example-3       |
+|   7   |  Example-4(Query)     |   Query for example-4              |
+|   8   |  Example-1(output)    |   Output Image for Example-4       |                      |
+
 ## 1(output)
 
 ![Example-1(output)](https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/ecc60485-b00a-43d7-8063-509fd39d0fe5)
