@@ -84,7 +84,29 @@ Graphy.app is an online tool that allows you to create and customize various typ
 
 # Example:
 
+## 1(output)
 
+![Example-1(output)](https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/ecc60485-b00a-43d7-8063-509fd39d0fe5)
+
+
+
+## 2(Output)
+
+![Example-2(output)](https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/30153762-3fa1-4ed9-8524-9832c134a28e)
+
+
+## 3(output)
+
+![Example-3(output)](https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/478eb684-2352-4dd5-b280-da18fa165f29)
+
+## 4
+
+<img width="451" alt="Screenshot 2023-07-07 at 11 44 53 AM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/ad095e51-16bc-4b9f-8155-8f37f292a7d2">
+
+
+## 4(output)
+
+<img width="1252" alt="Screenshot 2023-07-07 at 11 45 27 AM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/0e2a7c9b-0312-4c9f-9e3f-561b36fd5166">
 
 
 # Use Cases:-
