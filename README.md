@@ -5,5 +5,6 @@
 ## Email: sripathisaitheja@gmail.com
 
 ## Avatar:
-![PPIC](PPIC.jpeg)
+
+<img src = "https://github.com/saisri07/4883-software-tools-sripathi/blob/main/PPIC.jpeg" width = 200>
 
