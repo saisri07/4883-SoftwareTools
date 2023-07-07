@@ -29,6 +29,30 @@ FastAPI was used to establish a RESTful API for this project that gives users ac
 
 <img width="1411" alt="Screenshot 2023-07-07 at 1 14 54 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/250012f1-44a2-4621-98a7-f16f679e5dc2">
 
+## /deaths?country=Brazil
+
+* Retrieves the total deaths for the given country.
+
+<img width="1192" alt="Screenshot 2023-07-07 at 1 23 14 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/6039adb5-7f58-419c-9a71-5a9d75509334">
+
+## /deaths?region=AFRO
+
+* Retrieves the total deaths for the given region.
+
+<img width="1189" alt="Screenshot 2023-07-07 at 1 24 11 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/ab386a6c-97e5-4592-93a3-a2f1d55f3ef9">
+
+## /deaths?country=France&year=2020
+
+* Retrieves the total deaths for the given country in a specified year.
+
+<img width="1190" alt="Screenshot 2023-07-07 at 1 25 01 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/5503c4f3-8a98-45b6-9083-7c292ba397b1">
+
+## /deaths?region=AFRO&year=2020
+
+* Retrieves the total deaths for the given region in a specified year.
+
+<img width="1193" alt="Screenshot 2023-07-07 at 1 25 39 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/ec77e9b8-edb0-4458-adb5-092719bf2619">
+
 
 ## /Avg_deaths
 
