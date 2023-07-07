@@ -6,6 +6,13 @@
 
 FastAPI was used to establish a RESTful API for this project that gives users access to COVID-19 data. The API enables APIs to retrieve various statistics pertaining to COVID-19 cases and retrieves data from a publicly accessible data source.
 
+## File Contents:
+|   #   | File                  | Description                                        |
+| :---: | :-------------------- | -------------------------------------------------- |
+|   1   | [api.py](api.py)      | Python code for api request.      |
+|   2   | [data.csv](data.csv)  | Dataset which has all covid data        |
+|   3   | [requirements.txt](requirements.txt)  | contains required module that needs to installed       |
+
 ## Endpoints:
 
 <img width="1415" alt="Screenshot 2023-07-07 at 11 28 40 AM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/5d870c95-9e65-43d3-b365-30a3a3ad01df">
