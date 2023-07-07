@@ -15,19 +15,22 @@ FastAPI was used to establish a RESTful API for this project that gives users ac
 
 * Retrieves a list of unique countries with COVID-19 data.
 
-<img width="1216" alt="Screenshot 2023-07-07 at 1 10 27 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/d05e2cd3-3a97-419f-bd9a-922fb6b52bfe">
+<img width="1216" alt="Screenshot 2023-07-07 at 3 42 52 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/de85d496-482b-4214-928c-901751a85f92">
+
 
 ## /Regions
 
 * Retrieves a list of unique WHO regions with COVID-19 data.
 
-  <img width="1224" alt="Screenshot 2023-07-07 at 1 12 16 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/b761d067-0dfa-4f29-b6b0-8727ae57b62e">
+  <img width="1216" alt="Screenshot 2023-07-07 at 3 42 52 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/6498e75b-831c-4ca5-b324-02bf12c117cf">
+
 
 ## /Deaths
 
 * Retrieves total deaths for all countries.
 
-<img width="1411" alt="Screenshot 2023-07-07 at 1 14 54 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/250012f1-44a2-4621-98a7-f16f679e5dc2">
+<img width="1410" alt="Screenshot 2023-07-07 at 3 45 09 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/17878b4d-ef5d-4d65-99ca-7f8cb5a5354d">
+
 
 ## /deaths?country=Brazil
 
@@ -54,12 +57,34 @@ FastAPI was used to establish a RESTful API for this project that gives users ac
 <img width="1193" alt="Screenshot 2023-07-07 at 1 25 39 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/ec77e9b8-edb0-4458-adb5-092719bf2619">
 
 
+## /max_deaths
+
+* Retrieves the country that has maximum number of deaths.
+
+<img width="1228" alt="Screenshot 2023-07-07 at 3 49 18 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/073c6e6d-d517-41a8-b33f-ff78f2ec6f70">
+
+
+## /min_deaths
+
+* Retrieves the country that has maximum number of deaths.
+
+
+<img width="1213" alt="Screenshot 2023-07-07 at 3 50 43 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/b98b5fab-dea5-4942-b04e-a551a9ef6cca">
+
+
+
+## /min_deaths?min_date=2021-06-01&max_date=2021-12-31
+
+* Retrieves the maximum number in given range of dates.
+
+<img width="1200" alt="Screenshot 2023-07-07 at 3 37 15 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/462ca0ff-61e2-4aa4-8521-018745952cc7">
+
 ## /Avg_deaths
 
 * Retrieves the country that has maximum number of deaths.
 
 
-  <img width="1204" alt="Screenshot 2023-07-07 at 1 17 47 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/b5bad08d-d2e4-4faf-9326-e5ee09534895">
+<img width="1228" alt="Screenshot 2023-07-07 at 3 46 39 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/cc7ae899-e12f-4d60-82ff-84ab244210a6">
 
 
 
