@@ -70,6 +70,11 @@ FastAPI was used to establish a RESTful API for this project that gives users ac
 
 <img width="1228" alt="Screenshot 2023-07-07 at 3 49 18 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/073c6e6d-d517-41a8-b33f-ff78f2ec6f70">
 
+## /max_deaths?min_date=2021-06-01&max_date=2021-12-31
+
+* Find the country with the most deaths between a range of dates
+
+<img width="1393" alt="Screenshot 2023-07-07 at 4 08 53 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/81c068f4-5c0b-45e9-abc5-a345638ba29c">
 
 ## /min_deaths
 
@@ -92,6 +97,14 @@ FastAPI was used to establish a RESTful API for this project that gives users ac
 
 
 <img width="1228" alt="Screenshot 2023-07-07 at 3 46 39 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/cc7ae899-e12f-4d60-82ff-84ab244210a6">
+
+
+## Instructions:
+
+
+
+## Challenges Faced:
+
 
 
 
