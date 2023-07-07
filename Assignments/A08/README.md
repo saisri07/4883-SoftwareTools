@@ -100,7 +100,7 @@ FastAPI was used to establish a RESTful API for this project that gives users ac
 
 
 ## Instructions:
-
+* you can access the API at http://localhost:8000.
 
 
 ## Challenges Faced:
