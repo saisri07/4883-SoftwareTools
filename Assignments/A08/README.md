@@ -102,22 +102,22 @@ FastAPI was used to establish a RESTful API for this project that gives users ac
 ## To Run code:
 * Install requirements:
   
-'''  pip3 install -r requirements.txt '''
+```  pip3 install -r requirements.txt ```
   
 * To start server
   
-'''  python3 api.py '''
+``` python3 api.py ```
 
 
 
 ## Instructions:
 * you can access the API at
 
-'''  http://localhost:8000.'''
+```  http://localhost:8000. ```
 
 * Example: Retrieve total deaths for Brazil in the year 2020 at
 
-'''  GET http://localhost:8000/deaths?country=Brazil&year=2020 '''
+```  GET http://localhost:8000/deaths?country=Brazil&year=2020  ```
 
 
 
