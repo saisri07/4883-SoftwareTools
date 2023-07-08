@@ -86,7 +86,7 @@ Graphy.app is an online tool that allows you to create and customize various typ
 
 |   #   | File                  | Description                                        |
 | :---: | :-------------------- | ---------------------------------- |
-|   1   |  Example-1(data)      |   Excel data for Example-1         |
+|   1   |  [Example-1(data)](Example-1(data))      |   Excel data for Example-1         |
 |   2   |  Example-1(output)    |   Output Image for Example-1       |
 |   3  |   Example-2(data)      |   Excel data for Example-2         |
 |   4   |  Example-2(output)    |   Output Image for Example-2       |
