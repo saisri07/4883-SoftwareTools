@@ -102,8 +102,14 @@ FastAPI was used to establish a RESTful API for this project that gives users ac
 ## Instructions:
 * you can access the API at http://localhost:8000.
 
+* Example: Retrieve total deaths for Brazil in the year 2020 at GET http://localhost:8000/deaths?country=France&year=2020
+
+* Install the required Python packages using  pip3 install -r requirements.txt
+
 
 ## Challenges Faced:
+
+API concept was new to me, but with help of my professor and some online helped to understand and solve problems I have faced during this project
 
 
 
