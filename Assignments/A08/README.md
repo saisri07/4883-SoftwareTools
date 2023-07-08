@@ -99,12 +99,27 @@ FastAPI was used to establish a RESTful API for this project that gives users ac
 <img width="1228" alt="Screenshot 2023-07-07 at 3 46 39 PM" src="https://github.com/saisri07/4883-software-tools-sripathi/assets/36495909/cc7ae899-e12f-4d60-82ff-84ab244210a6">
 
 
+## To Run code:
+* Install requirements:
+  
+'''  pip3 install -r requirements.txt '''
+  
+* To start server
+  
+'''  python3 api.py '''
+
+
+
 ## Instructions:
-* you can access the API at http://localhost:8000.
+* you can access the API at
 
-* Example: Retrieve total deaths for Brazil in the year 2020 at GET http://localhost:8000/deaths?country=France&year=2020
+'''  http://localhost:8000.'''
 
-* Install the required Python packages using  pip3 install -r requirements.txt
+* Example: Retrieve total deaths for Brazil in the year 2020 at
+
+'''  GET http://localhost:8000/deaths?country=Brazil&year=2020 '''
+
+
 
 
 ## Challenges Faced:
